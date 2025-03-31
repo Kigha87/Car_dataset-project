@@ -2,6 +2,7 @@
 The aim of this project is to clean, transform and analyze the data by using python tool.
 
 ## Table of Content
-1. [Project Overview](#project-overview)
-2. [Data Sources](#data-sources)
-3. [Insights](#insights)
+1. [Project Objectives](#project-objectives)
+2. [Project Overview](#project-overview)
+3. [Data Sources](#data-sources)
+4. [Insights](#insights)
