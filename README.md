@@ -15,10 +15,10 @@
 
 ### DATASET CLEANING
 1. Handling Missing Data
-   -df_car.head()
-   -df_car.colums
-   -df_car.info()
-   -df_car.isnull().sum()
+   - df_car.head()
+   - df_car.colums
+   - df_car.info()
+   - df_car.isnull().sum()
 ![Screenshot 2025-04-01 at 15 37 54](https://github.com/user-attachments/assets/d85d2221-1060-46e0-8eef-f3b81cecb456)
 
 ![Screenshot 2025-04-01 at 15 38 28](https://github.com/user-attachments/assets/908a9474-658e-4dae-82cc-ec79c07d464a)
@@ -80,12 +80,12 @@
 
 
 ### Data Sources
-  -import numpy as np
-  -import pandas as pd
-  -import matplotlib.pyplot as plt
-  -import seaborn as sn
-  -from google.colab import drive
-  -drive.mount('/content/drive')
+  - import numpy as np
+  - import pandas as pd
+  - import matplotlib.pyplot as plt
+  - import seaborn as sn
+  - from google.colab import drive
+  - drive.mount('/content/drive')
 
   ### Loading Data
   df_car = pd.read.csv('/content/drive/Mydrive/Datasets/data.csv')
