@@ -15,18 +15,32 @@
 
 ### DATASET CLEANING
 1. Handling Missing Data
+   df_car.head()
+   df_car.colums
+   df_car.info()
+   df_car.isnull().sum()
+![Screenshot 2025-04-01 at 15 37 54](https://github.com/user-attachments/assets/d85d2221-1060-46e0-8eef-f3b81cecb456)
+
+![Screenshot 2025-04-01 at 15 38 28](https://github.com/user-attachments/assets/908a9474-658e-4dae-82cc-ec79c07d464a)
+
 
    
+   
 3. Data Type Conversion
+![Screenshot 2025-04-01 at 15 34 46](https://github.com/user-attachments/assets/1dc10c9e-aed6-46a5-aefc-1a0b0f7bdccf)
 
    
 5. Filtering Data
+![Screenshot 2025-04-01 at 15 33 49](https://github.com/user-attachments/assets/8f17fce2-a782-4eac-b181-3804fb521ea3)
 
    
 7. String Operations
+![Screenshot 2025-04-01 at 15 32 09](https://github.com/user-attachments/assets/90f6b2b1-20dd-43f5-a1b3-5df283e44219)
 
    
 9. Cleaned Dataset
+![Screenshot 2025-04-01 at 15 39 36](https://github.com/user-attachments/assets/38f6836b-34dc-4255-8706-4545337bdebc)
+
 
     
 
@@ -34,12 +48,14 @@
 ###FEATURE ENGINEERING
 1. Creating New Columns
 
-   
+   ![Screenshot 2025-04-01 at 15 30 28](https://github.com/user-attachments/assets/1f1f9001-d67a-4dbe-8ab4-b1fc1a5856df)
+
 
 
 ### EXPLORATORY DATA ANALYSIS (EDA)
 1. Descriptive Statistics
 
+![Screenshot 2025-04-01 at 15 28 48](https://github.com/user-attachments/assets/ca0396c8-fe2e-4b03-9b49-523780002bce)
 
    
 3. Group Analysis
