@@ -1,0 +1,9 @@
+A cleaned dataset with all missing data addressed, data types fixed, and filters applied.
+
+All new features (columns) created as described in the feature engineering section.
+
+Visualizations that answer the following questions:
+- What trends exist in pricing (MSRP) and market size (Vehicle Size)?
+-How does horsepower (Engine HP) relate to price (MSRP)?
+-Is there a significant difference in price (MSRP) for different drivetrains (Driven_Wheels)?
+-How do MPG (city mpg and highway MPG) trends change with transmission type (Transmission Type)?
